@@ -7,3 +7,5 @@ The components have been optimised to use little or no support material during b
 
 If using a Ultimaker, Makerbot or similar system, it is recommended to print components directly onto the glass build plate without a raft.
 
+Fusion 360 URL: https://a360.co/2qsTVAh
+
